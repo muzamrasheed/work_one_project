@@ -1,0 +1,9 @@
+2020-04-04 23:28:22,337 [main] INFO cucumber_restAssured - ****************** stating a first scenarion ****************
+2020-04-04 23:47:40,539 [main] INFO api - __________ Before Test __________
+2020-04-04 23:47:40,543 [main] INFO api - ****************** stating a first scenarion ****************
+2020-04-04 23:49:36,097 [main] INFO RestApi - __________ Before Test __________
+2020-04-04 23:49:36,100 [main] INFO RestApi - ****************** stating a first scenarion ****************
+2020-04-04 23:52:38,515 [main] INFO RestApi - __________ Before Test __________
+2020-04-04 23:52:38,515 [main] INFO RestApi - ****************** stating a first scenarion ****************
+2020-04-05 00:04:00,706 [main] INFO RestApi - __________ Before Test __________
+2020-04-05 00:04:00,712 [main] INFO RestApi - ****************** stating a first scenarion ****************
