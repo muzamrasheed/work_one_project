@@ -1,0 +1,11 @@
+{
+  "abbreviation": "XX",
+  "name": "XXstringXX",
+  "regionLabel": "string",
+  "zipLabel": "string",
+  "callingCode": 0,
+  "sortOrder": 0,
+  "hasRegions": true,
+  "showInAddressList": true,
+  "showInCallingCodeList": true
+}
