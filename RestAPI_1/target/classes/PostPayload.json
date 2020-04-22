@@ -1,0 +1,21 @@
+
+{
+  "data": {
+    "id": "1247",
+    "abbreviation": "XX",
+    "name": "XXstringXX",
+    "regionLabel": "string",
+    "zipLabel": "string",
+    "callingCode": 0,
+    "sortOrder": 0,
+    "hasRegions": true,
+    "showInAddressList": true,
+    "showInCallingCodeList": true
+  },
+  "meta": {
+    "customerId": 53
+  },
+  "links": {
+    "self": "https://devtest.smartbutton.com/webapi/countries/1247"
+  }
+}
