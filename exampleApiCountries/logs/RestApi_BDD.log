@@ -1,0 +1,389 @@
+2020-03-25 11:45:45 INFO  RestApi:19 - __________ Before Test __________
+2020-03-25 11:45:45 INFO  RestApi:25 - __________ Apply for Access Token __________
+2020-03-25 11:45:46 INFO  RestApi:35 - __________ Access token was successful! __________
+2020-03-25 11:45:46 INFO  RestApi:39 - __________ GET . Retrieve a list of countries __________
+2020-03-25 11:45:47 INFO  RestApi:44 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-03-25 11:45:47 INFO  RestApi:48 - __________ Validate multiple contents in GET request __________
+2020-03-25 11:45:47 INFO  RestApi:56 - __________ Validate multiple contents in GET request was successful! __________
+2020-03-25 11:45:47 INFO  RestApi:60 - __________ Validate multiple values in a content in GET request __________
+2020-03-25 11:45:47 INFO  RestApi:65 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-03-27 09:08:35 INFO  RestApi:19 - __________ Before Test __________
+2020-03-27 09:08:35 INFO  RestApi:25 - __________ Apply for Access Token __________
+2020-03-27 09:08:37 INFO  RestApi:35 - __________ Access token was successful! __________
+2020-03-27 09:08:37 INFO  RestApi:39 - __________ GET . Retrieve a list of countries __________
+2020-03-27 09:08:37 INFO  RestApi:44 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-03-27 09:08:37 INFO  RestApi:48 - __________ Validate multiple contents in GET request __________
+2020-03-27 09:08:37 INFO  RestApi:56 - __________ Validate multiple contents in GET request was successful! __________
+2020-03-27 09:08:37 INFO  RestApi:60 - __________ Validate multiple values in a content in GET request __________
+2020-03-27 09:08:38 INFO  RestApi:65 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-03-27 11:55:58 INFO  RestApi:19 - __________ Before Test __________
+2020-03-27 11:55:59 INFO  RestApi:25 - __________ Apply for Access Token __________
+2020-03-27 11:56:00 INFO  RestApi:35 - __________ Access token was successful! __________
+2020-03-27 11:56:00 INFO  RestApi:39 - __________ GET . Retrieve a list of countries __________
+2020-03-27 11:56:00 INFO  RestApi:44 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-03-27 11:56:00 INFO  RestApi:48 - __________ Validate multiple contents in GET request __________
+2020-03-27 11:56:00 INFO  RestApi:56 - __________ Validate multiple contents in GET request was successful! __________
+2020-03-27 11:56:00 INFO  RestApi:60 - __________ Validate multiple values in a content in GET request __________
+2020-03-27 11:56:00 INFO  RestApi:65 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-03-30 15:06:46 INFO  RestApi:26 - __________ Apply for Access Token __________
+2020-03-30 15:06:48 INFO  RestApi:36 - __________ Access token was successful! __________
+2020-03-30 15:06:48 INFO  RestApi:19 - __________ Before Test __________
+2020-03-30 15:06:48 INFO  RestApi:42 - __________ GET . Retrieve a list of countries __________
+2020-03-30 15:06:49 INFO  RestApi:47 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-03-30 15:14:48 INFO  RestApi:26 - __________ Apply for Access Token __________
+2020-03-30 15:14:50 INFO  RestApi:36 - __________ Access token was successful! __________
+2020-03-30 15:14:50 INFO  RestApi:19 - __________ Before Test __________
+2020-03-30 15:14:50 INFO  RestApi:42 - __________ GET . Retrieve a list of countries __________
+2020-03-30 15:15:12 INFO  RestApi:47 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-03-30 15:15:12 INFO  RestApi:53 - __________ Validate multiple contents in GET request __________
+2020-03-30 15:15:39 INFO  RestApi:61 - __________ Validate multiple contents in GET request was successful! __________
+2020-03-30 15:15:39 INFO  RestApi:67 - __________ Validate multiple values in a content in GET request __________
+2020-03-30 15:15:39 INFO  RestApi:72 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-03-30 16:24:31 INFO  RestApi:19 - __________ Before Test __________
+2020-03-30 16:24:31 INFO  RestApi:22 - __________ Apply for Access Token __________
+2020-03-30 16:24:33 INFO  RestApi:32 - __________ Access token was successful! __________
+2020-03-30 16:24:33 INFO  RestApi:38 - __________ GET . Retrieve a list of countries __________
+2020-03-30 16:24:34 INFO  RestApi:43 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-03-30 16:24:34 INFO  RestApi:49 - __________ Validate multiple contents in GET request __________
+2020-03-30 16:24:35 INFO  RestApi:57 - __________ Validate multiple contents in GET request was successful! __________
+2020-03-30 16:24:35 INFO  RestApi:63 - __________ Validate multiple values in a content in GET request __________
+2020-03-30 16:24:36 INFO  RestApi:68 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-03-30 16:25:06 INFO  RestApi:19 - __________ Before Test __________
+2020-03-30 16:25:07 INFO  RestApi:22 - __________ Apply for Access Token __________
+2020-03-30 16:25:09 INFO  RestApi:32 - __________ Access Token was successful __________
+2020-03-30 16:25:09 INFO  RestApi:38 - __________ Post REquest Started __________
+2020-03-30 16:25:10 INFO  RestApi:54 - __________ Post Request was successful __________
+2020-03-30 16:25:25 INFO  RestApi:15 - __________ Before Class C__________
+2020-03-30 16:25:26 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-03-30 16:25:28 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-03-30 16:25:28 INFO  RestApi:31 - __________ GET After Posting a country __________
+2020-03-30 16:27:48 INFO  RestApi:16 - __________ Before Class C__________
+2020-03-30 16:27:49 INFO  RestApi:18 - __________ Apply for Access Token __________
+2020-03-30 16:27:51 INFO  RestApi:28 - __________ Access Token was successful __________
+2020-03-30 16:27:51 INFO  RestApi:32 - __________ Put Request __________
+2020-03-30 16:27:51 INFO  RestApi:48 - __________ Put request was succuessful __________
+2020-03-30 16:29:40 INFO  RestApi:19 - __________ Before Test __________
+2020-03-30 16:29:40 INFO  RestApi:22 - __________ Apply for Access Token __________
+2020-03-30 16:29:42 INFO  RestApi:32 - __________ Access token was successful! __________
+2020-03-30 16:29:42 INFO  RestApi:38 - __________ GET . Retrieve a list of countries __________
+2020-03-30 16:29:42 INFO  RestApi:43 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-03-30 16:29:42 INFO  RestApi:49 - __________ Validate multiple contents in GET request __________
+2020-03-30 16:29:43 INFO  RestApi:57 - __________ Validate multiple contents in GET request was successful! __________
+2020-03-30 16:29:43 INFO  RestApi:63 - __________ Validate multiple values in a content in GET request __________
+2020-03-30 16:29:44 INFO  RestApi:68 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-03-30 16:29:56 INFO  RestApi:19 - __________ Before Test __________
+2020-03-30 16:29:57 INFO  RestApi:22 - __________ Apply for Access Token __________
+2020-03-30 16:30:00 INFO  RestApi:32 - __________ Access Token was successful __________
+2020-03-30 16:30:00 INFO  RestApi:38 - __________ Post REquest Started __________
+2020-03-30 16:30:01 INFO  RestApi:54 - __________ Post Request was successful __________
+2020-03-30 16:30:14 INFO  RestApi:15 - __________ Before Class C__________
+2020-03-30 16:30:14 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-03-30 16:30:16 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-03-30 16:30:16 INFO  RestApi:31 - __________ GET After Posting a country __________
+2020-03-30 16:30:17 INFO  RestApi:36 - __________ Get after post was successful __________
+2020-03-30 16:30:42 INFO  RestApi:16 - __________ Before Class C__________
+2020-03-30 16:30:42 INFO  RestApi:18 - __________ Apply for Access Token __________
+2020-03-30 16:30:44 INFO  RestApi:28 - __________ Access Token was successful __________
+2020-03-30 16:30:44 INFO  RestApi:32 - __________ Put Request __________
+2020-03-30 16:30:45 INFO  RestApi:48 - __________ Put request was succuessful __________
+2020-03-30 16:31:08 INFO  RestApi:15 - __________ Before Class C__________
+2020-03-30 16:31:08 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-03-30 16:31:10 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-03-30 16:31:10 INFO  RestApi:31 - __________ GET After PUT/Updating a country __________
+2020-03-30 16:31:11 INFO  RestApi:36 - __________ Get after PUT/Updating was successful __________
+2020-03-30 16:31:24 INFO  RestApi:15 - __________ Before Test __________
+2020-03-30 16:31:25 INFO  RestApi:18 - __________ Apply for Access Token __________
+2020-03-30 16:31:27 INFO  RestApi:28 - __________ Access Token was successful __________
+2020-03-30 16:31:27 INFO  RestApi:35 - __________ delete Request __________
+2020-03-30 16:31:29 INFO  RestApi:41 - __________ Delete Request was successful __________
+2020-03-30 16:45:08 INFO  RestApi:19 - __________ Before Test __________
+2020-03-30 16:45:09 INFO  RestApi:22 - __________ Apply for Access Token __________
+2020-03-30 16:45:10 INFO  RestApi:32 - __________ Access token was successful! __________
+2020-03-30 16:45:10 INFO  RestApi:38 - __________ GET . Retrieve a list of countries __________
+2020-03-30 16:45:11 INFO  RestApi:43 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-03-30 16:45:11 INFO  RestApi:49 - __________ Validate multiple contents in GET request __________
+2020-03-30 16:45:11 INFO  RestApi:57 - __________ Validate multiple contents in GET request was successful! __________
+2020-03-30 16:45:11 INFO  RestApi:63 - __________ Validate multiple values in a content in GET request __________
+2020-03-30 16:45:11 INFO  RestApi:68 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-03-30 16:45:11 INFO  RestApi:19 - __________ Before Test __________
+2020-03-30 16:45:11 INFO  RestApi:22 - __________ Apply for Access Token __________
+2020-03-30 16:45:11 INFO  RestApi:32 - __________ Access Token was successful __________
+2020-03-30 16:45:11 INFO  RestApi:38 - __________ Post REquest Started __________
+2020-03-30 16:45:12 INFO  RestApi:54 - __________ Post Request was successful __________
+2020-03-30 16:45:12 INFO  RestApi:15 - __________ Before Class C__________
+2020-03-30 16:45:12 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-03-30 16:45:12 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-03-30 16:45:12 INFO  RestApi:31 - __________ GET After Posting a country __________
+2020-03-30 16:45:12 INFO  RestApi:36 - __________ Get after post was successful __________
+2020-03-30 16:45:12 INFO  RestApi:16 - __________ Before Class C__________
+2020-03-30 16:45:12 INFO  RestApi:18 - __________ Apply for Access Token __________
+2020-03-30 16:45:12 INFO  RestApi:28 - __________ Access Token was successful __________
+2020-03-30 16:45:12 INFO  RestApi:32 - __________ Put Request __________
+2020-03-30 16:45:12 INFO  RestApi:48 - __________ Put request was succuessful __________
+2020-03-30 16:45:12 INFO  RestApi:15 - __________ Before Class C__________
+2020-03-30 16:45:12 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-03-30 16:45:13 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-03-30 16:45:13 INFO  RestApi:31 - __________ GET After PUT/Updating a country __________
+2020-03-30 16:45:13 INFO  RestApi:36 - __________ Get after PUT/Updating was successful __________
+2020-03-30 16:45:13 INFO  RestApi:15 - __________ Before Test __________
+2020-03-30 16:45:13 INFO  RestApi:18 - __________ Apply for Access Token __________
+2020-03-30 16:45:13 INFO  RestApi:28 - __________ Access Token was successful __________
+2020-03-30 16:45:13 INFO  RestApi:35 - __________ delete Request __________
+2020-03-30 16:45:15 INFO  RestApi:41 - __________ Delete Request was successful __________
+2020-03-31 11:50:47 INFO  RestApi:19 - __________ Before Test __________
+2020-03-31 11:50:48 INFO  RestApi:22 - __________ Apply for Access Token __________
+2020-03-31 11:50:49 INFO  RestApi:32 - __________ Access token was successful! __________
+2020-03-31 11:50:49 INFO  RestApi:38 - __________ GET . Retrieve a list of countries __________
+2020-03-31 11:50:50 INFO  RestApi:43 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-03-31 11:50:50 INFO  RestApi:49 - __________ Validate multiple contents in GET request __________
+2020-03-31 11:50:50 INFO  RestApi:57 - __________ Validate multiple contents in GET request was successful! __________
+2020-03-31 11:50:50 INFO  RestApi:63 - __________ Validate multiple values in a content in GET request __________
+2020-03-31 11:50:50 INFO  RestApi:68 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-03-31 11:50:50 INFO  RestApi:19 - __________ Before Test __________
+2020-03-31 11:50:50 INFO  RestApi:22 - __________ Apply for Access Token __________
+2020-03-31 11:50:50 INFO  RestApi:32 - __________ Access Token was successful __________
+2020-03-31 11:50:50 INFO  RestApi:38 - __________ Post REquest Started __________
+2020-03-31 11:50:51 INFO  RestApi:54 - __________ Post Request was successful __________
+2020-03-31 11:50:51 INFO  RestApi:15 - __________ Before Class C__________
+2020-03-31 11:50:51 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-03-31 11:50:51 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-03-31 11:50:51 INFO  RestApi:31 - __________ GET After Posting a country __________
+2020-03-31 11:50:51 INFO  RestApi:36 - __________ Get after post was successful __________
+2020-03-31 11:50:51 INFO  RestApi:16 - __________ Before Class C__________
+2020-03-31 11:50:51 INFO  RestApi:18 - __________ Apply for Access Token __________
+2020-03-31 11:50:51 INFO  RestApi:28 - __________ Access Token was successful __________
+2020-03-31 11:50:51 INFO  RestApi:32 - __________ Put Request __________
+2020-03-31 11:50:51 INFO  RestApi:48 - __________ Put request was succuessful __________
+2020-03-31 11:50:51 INFO  RestApi:15 - __________ Before Class C__________
+2020-03-31 11:50:51 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-03-31 11:50:51 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-03-31 11:50:51 INFO  RestApi:31 - __________ GET After PUT/Updating a country __________
+2020-03-31 11:50:52 INFO  RestApi:36 - __________ Get after PUT/Updating was successful __________
+2020-03-31 11:50:52 INFO  RestApi:15 - __________ Before Test __________
+2020-03-31 11:50:52 INFO  RestApi:18 - __________ Apply for Access Token __________
+2020-03-31 11:50:52 INFO  RestApi:28 - __________ Access Token was successful __________
+2020-03-31 11:50:52 INFO  RestApi:35 - __________ delete Request __________
+2020-03-31 11:50:54 INFO  RestApi:41 - __________ Delete Request was successful __________
+2020-04-01 11:10:26 INFO  RestApi:19 - __________ Before Test __________
+2020-04-01 11:10:27 INFO  RestApi:22 - __________ Apply for Access Token __________
+2020-04-01 11:10:30 INFO  RestApi:32 - __________ Access Token was successful __________
+2020-04-01 11:10:30 INFO  RestApi:38 - __________ Post REquest Started __________
+2020-04-01 11:10:31 INFO  RestApi:54 - __________ Post Request was successful __________
+2020-04-01 11:14:03 INFO  RestApi:19 - __________ Before Test __________
+2020-04-01 11:14:04 INFO  RestApi:22 - __________ Apply for Access Token __________
+2020-04-01 11:14:06 INFO  RestApi:32 - __________ Access token was successful! __________
+2020-04-01 11:14:06 INFO  RestApi:38 - __________ GET . Retrieve a list of countries __________
+2020-04-01 11:14:06 INFO  RestApi:43 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-04-01 11:14:06 INFO  RestApi:49 - __________ Validate multiple contents in GET request __________
+2020-04-01 11:14:07 INFO  RestApi:57 - __________ Validate multiple contents in GET request was successful! __________
+2020-04-01 11:14:07 INFO  RestApi:63 - __________ Validate multiple values in a content in GET request __________
+2020-04-01 11:14:07 INFO  RestApi:68 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-04-01 11:14:07 INFO  RestApi:19 - __________ Before Test __________
+2020-04-01 11:14:07 INFO  RestApi:22 - __________ Apply for Access Token __________
+2020-04-01 11:14:07 INFO  RestApi:32 - __________ Access Token was successful __________
+2020-04-01 11:14:07 INFO  RestApi:38 - __________ Post REquest Started __________
+2020-04-01 11:14:08 INFO  RestApi:54 - __________ Post Request was successful __________
+2020-04-01 11:14:08 INFO  RestApi:15 - __________ Before Class C__________
+2020-04-01 11:14:08 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-04-01 11:14:09 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-04-01 11:14:09 INFO  RestApi:31 - __________ GET After Posting a country __________
+2020-04-01 11:14:09 INFO  RestApi:36 - __________ Get after post was successful __________
+2020-04-01 11:14:09 INFO  RestApi:16 - __________ Before Class C__________
+2020-04-01 11:14:09 INFO  RestApi:18 - __________ Apply for Access Token __________
+2020-04-01 11:14:09 INFO  RestApi:28 - __________ Access Token was successful __________
+2020-04-01 11:14:09 INFO  RestApi:32 - __________ Put Request __________
+2020-04-01 11:14:09 INFO  RestApi:48 - __________ Put request was succuessful __________
+2020-04-01 11:14:09 INFO  RestApi:15 - __________ Before Class C__________
+2020-04-01 11:14:09 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-04-01 11:14:10 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-04-01 11:14:10 INFO  RestApi:31 - __________ GET After PUT/Updating a country __________
+2020-04-01 11:14:10 INFO  RestApi:36 - __________ Get after PUT/Updating was successful __________
+2020-04-01 11:14:10 INFO  RestApi:15 - __________ Before Test __________
+2020-04-01 11:14:10 INFO  RestApi:18 - __________ Apply for Access Token __________
+2020-04-01 11:14:10 INFO  RestApi:28 - __________ Access Token was successful __________
+2020-04-01 11:14:10 INFO  RestApi:35 - __________ delete Request __________
+2020-04-01 11:14:12 INFO  RestApi:41 - __________ Delete Request was successful __________
+2020-04-04 23:33:35 INFO  RestApi:19 - __________ Before Test __________
+2020-04-04 23:33:35 INFO  RestApi:22 - __________ Apply for Access Token __________
+2020-04-05 00:59:25 INFO  RestApi:19 - __________ Before Test __________
+2020-04-05 00:59:26 INFO  RestApi:23 - __________ Apply for Access Token __________
+2020-04-05 01:18:07 INFO  RestApi:25 - __________ Before Test __________
+2020-04-05 01:18:08 INFO  RestApi:35 - __________ Apply for Access Token __________
+2020-04-05 01:18:09 INFO  DefaultHttpClient:623 - I/O exception (java.net.NoRouteToHostException) caught when connecting to {s}->https://devtest.smartbutton.com:443: No route to host: connect
+2020-04-05 01:18:09 INFO  DefaultHttpClient:631 - Retrying connect to {s}->https://devtest.smartbutton.com:443
+2020-04-05 01:18:09 INFO  DefaultHttpClient:623 - I/O exception (java.net.NoRouteToHostException) caught when connecting to {s}->https://devtest.smartbutton.com:443: No route to host: connect
+2020-04-05 01:18:09 INFO  DefaultHttpClient:631 - Retrying connect to {s}->https://devtest.smartbutton.com:443
+2020-04-05 01:18:09 INFO  DefaultHttpClient:623 - I/O exception (java.net.NoRouteToHostException) caught when connecting to {s}->https://devtest.smartbutton.com:443: No route to host: connect
+2020-04-05 01:18:09 INFO  DefaultHttpClient:631 - Retrying connect to {s}->https://devtest.smartbutton.com:443
+2020-04-05 01:22:10 INFO  RestApi:25 - __________ Before Test __________
+2020-04-05 01:22:10 INFO  RestApi:35 - __________ Apply for Access Token __________
+2020-04-05 01:22:13 INFO  RestApi:45 - __________ Access token was successful! __________
+2020-04-05 01:22:13 INFO  RestApi:51 - __________ GET . Retrieve a list of countries __________
+2020-04-05 01:22:32 INFO  RestApi:56 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-04-05 01:22:32 INFO  RestApi:62 - __________ Validate multiple contents in GET request __________
+2020-04-05 01:22:32 INFO  RestApi:70 - __________ Validate multiple contents in GET request was successful! __________
+2020-04-05 01:22:32 INFO  RestApi:76 - __________ Validate multiple values in a content in GET request __________
+2020-04-05 01:22:53 INFO  RestApi:81 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-04-06 08:55:25 INFO  RestApi:25 - __________ Before Test __________
+2020-04-06 08:55:26 INFO  RestApi:32 - __________ Apply for Access Token __________
+2020-04-06 08:55:28 INFO  RestApi:42 - __________ Access token was successful! __________
+2020-04-06 08:55:28 INFO  RestApi:48 - __________ GET . Retrieve a list of countries __________
+2020-04-06 08:55:31 INFO  RestApi:53 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-04-06 08:55:31 INFO  RestApi:59 - __________ Validate multiple contents in GET request __________
+2020-04-06 08:55:33 INFO  RestApi:67 - __________ Validate multiple contents in GET request was successful! __________
+2020-04-06 08:55:33 INFO  RestApi:73 - __________ Validate multiple values in a content in GET request __________
+2020-04-06 08:55:34 INFO  RestApi:78 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-04-06 08:55:34 INFO  RestApi:19 - __________ Before Test __________
+2020-04-06 08:55:34 INFO  RestApi:22 - __________ Apply for Access Token __________
+2020-04-06 08:55:35 INFO  RestApi:32 - __________ Access Token was successful __________
+2020-04-06 08:55:35 INFO  RestApi:38 - __________ Post REquest Started __________
+2020-04-06 08:55:36 INFO  RestApi:54 - __________ Post Request was successful __________
+2020-04-06 08:55:36 INFO  RestApi:15 - __________ Before Class C__________
+2020-04-06 08:55:36 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-04-06 08:55:36 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-04-06 08:55:36 INFO  RestApi:31 - __________ GET After Posting a country __________
+2020-04-06 08:55:36 INFO  RestApi:36 - __________ Get after post was successful __________
+2020-04-06 08:55:36 INFO  RestApi:16 - __________ Before Class C__________
+2020-04-06 08:55:36 INFO  RestApi:18 - __________ Apply for Access Token __________
+2020-04-06 08:55:36 INFO  RestApi:28 - __________ Access Token was successful __________
+2020-04-06 08:55:36 INFO  RestApi:32 - __________ Put Request __________
+2020-04-06 08:55:36 INFO  RestApi:48 - __________ Put request was succuessful __________
+2020-04-06 08:55:36 INFO  RestApi:15 - __________ Before Class C__________
+2020-04-06 08:55:36 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-04-06 08:55:37 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-04-06 08:55:37 INFO  RestApi:31 - __________ GET After PUT/Updating a country __________
+2020-04-06 08:55:37 INFO  RestApi:36 - __________ Get after PUT/Updating was successful __________
+2020-04-06 08:55:37 INFO  RestApi:15 - __________ Before Test __________
+2020-04-06 08:55:37 INFO  RestApi:18 - __________ Apply for Access Token __________
+2020-04-06 08:55:37 INFO  RestApi:28 - __________ Access Token was successful __________
+2020-04-06 08:55:37 INFO  RestApi:35 - __________ delete Request __________
+2020-04-06 08:55:38 INFO  RestApi:41 - __________ Delete Request was successful __________
+2020-04-06 09:37:53 INFO  RestApi:25 - __________ Before Test __________
+2020-04-06 09:37:53 INFO  RestApi:32 - __________ Apply for Access Token __________
+2020-04-06 09:37:56 INFO  RestApi:42 - __________ Access token was successful! __________
+2020-04-06 09:37:56 INFO  RestApi:48 - __________ GET . Retrieve a list of countries __________
+2020-04-06 09:37:56 INFO  RestApi:53 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-04-06 09:37:56 INFO  RestApi:59 - __________ Validate multiple contents in GET request __________
+2020-04-06 09:37:56 INFO  RestApi:67 - __________ Validate multiple contents in GET request was successful! __________
+2020-04-06 09:37:56 INFO  RestApi:73 - __________ Validate multiple values in a content in GET request __________
+2020-04-06 09:37:57 INFO  RestApi:78 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-04-06 09:37:57 INFO  RestApi:19 - __________ Before Test __________
+2020-04-06 09:37:57 INFO  RestApi:22 - __________ Apply for Access Token __________
+2020-04-06 09:37:57 INFO  RestApi:32 - __________ Access Token was successful __________
+2020-04-06 09:37:57 INFO  RestApi:38 - __________ Post REquest Started __________
+2020-04-06 09:37:58 INFO  RestApi:54 - __________ Post Request was successful __________
+2020-04-06 09:37:58 INFO  RestApi:15 - __________ Before Class C__________
+2020-04-06 09:37:58 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-04-06 09:37:59 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-04-06 09:37:59 INFO  RestApi:31 - __________ GET After Posting a country __________
+2020-04-06 09:37:59 INFO  RestApi:36 - __________ Get after post was successful __________
+2020-04-06 09:37:59 INFO  RestApi:16 - __________ Before Class C__________
+2020-04-06 09:37:59 INFO  RestApi:18 - __________ Apply for Access Token __________
+2020-04-06 09:37:59 INFO  RestApi:28 - __________ Access Token was successful __________
+2020-04-06 09:37:59 INFO  RestApi:32 - __________ Put Request __________
+2020-04-06 09:37:59 INFO  RestApi:48 - __________ Put request was succuessful __________
+2020-04-06 09:37:59 INFO  RestApi:15 - __________ Before Class C__________
+2020-04-06 09:37:59 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-04-06 09:37:59 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-04-06 09:37:59 INFO  RestApi:31 - __________ GET After PUT/Updating a country __________
+2020-04-06 09:38:00 INFO  RestApi:36 - __________ Get after PUT/Updating was successful __________
+2020-04-06 09:38:00 INFO  RestApi:15 - __________ Before Test __________
+2020-04-06 09:38:00 INFO  RestApi:18 - __________ Apply for Access Token __________
+2020-04-06 09:38:00 INFO  RestApi:28 - __________ Access Token was successful __________
+2020-04-06 09:38:00 INFO  RestApi:35 - __________ delete Request __________
+2020-04-06 09:38:01 INFO  RestApi:41 - __________ Delete Request was successful __________
+2020-04-06 10:46:22 INFO  RestApi:25 - __________ Before Test __________
+2020-04-06 10:46:23 INFO  RestApi:32 - __________ Apply for Access Token __________
+2020-04-06 10:46:26 INFO  RestApi:42 - __________ Access token was successful! __________
+2020-04-06 10:46:26 INFO  RestApi:48 - __________ GET . Retrieve a list of countries __________
+2020-04-06 10:46:27 INFO  RestApi:53 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-04-06 10:46:27 INFO  RestApi:59 - __________ Validate multiple contents in GET request __________
+2020-04-06 10:46:27 INFO  RestApi:67 - __________ Validate multiple contents in GET request was successful! __________
+2020-04-06 10:46:27 INFO  RestApi:73 - __________ Validate multiple values in a content in GET request __________
+2020-04-06 10:46:27 INFO  RestApi:78 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-04-06 10:46:28 INFO  RestApi:19 - __________ Before Test __________
+2020-04-06 10:46:28 INFO  RestApi:22 - __________ Apply for Access Token __________
+2020-04-06 10:46:29 INFO  RestApi:32 - __________ Access Token was successful __________
+2020-04-06 10:46:29 INFO  RestApi:38 - __________ Post REquest Started __________
+2020-04-06 10:46:30 INFO  RestApi:54 - __________ Post Request was successful __________
+2020-04-06 10:46:30 INFO  RestApi:15 - __________ Before Class C__________
+2020-04-06 10:46:30 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-04-06 10:46:30 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-04-06 10:46:30 INFO  RestApi:31 - __________ GET After Posting a country __________
+2020-04-06 10:46:30 INFO  RestApi:36 - __________ Get after post was successful __________
+2020-04-06 10:46:30 INFO  RestApi:16 - __________ Before Class C__________
+2020-04-06 10:46:30 INFO  RestApi:18 - __________ Apply for Access Token __________
+2020-04-06 10:46:30 INFO  RestApi:28 - __________ Access Token was successful __________
+2020-04-06 10:46:30 INFO  RestApi:32 - __________ Put Request __________
+2020-04-06 10:46:30 INFO  RestApi:48 - __________ Put request was succuessful __________
+2020-04-06 10:46:30 INFO  RestApi:15 - __________ Before Class C__________
+2020-04-06 10:46:30 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-04-06 10:46:30 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-04-06 10:46:30 INFO  RestApi:31 - __________ GET After PUT/Updating a country __________
+2020-04-06 10:46:31 INFO  RestApi:36 - __________ Get after PUT/Updating was successful __________
+2020-04-06 10:46:31 INFO  RestApi:15 - __________ Before Test __________
+2020-04-06 10:46:31 INFO  RestApi:18 - __________ Apply for Access Token __________
+2020-04-06 10:46:31 INFO  RestApi:28 - __________ Access Token was successful __________
+2020-04-06 10:46:31 INFO  RestApi:35 - __________ delete Request __________
+2020-04-06 10:46:32 INFO  RestApi:41 - __________ Delete Request was successful __________
+2020-04-06 11:15:09 INFO  RestApi:25 - __________ Before Test __________
+2020-04-06 11:15:09 INFO  RestApi:32 - __________ Apply for Access Token __________
+2020-04-06 11:15:11 INFO  RestApi:42 - __________ Access token was successful! __________
+2020-04-06 11:15:11 INFO  RestApi:48 - __________ GET . Retrieve a list of countries __________
+2020-04-06 11:15:11 INFO  RestApi:53 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-04-06 11:15:11 INFO  RestApi:59 - __________ Validate multiple contents in GET request __________
+2020-04-06 11:15:11 INFO  RestApi:67 - __________ Validate multiple contents in GET request was successful! __________
+2020-04-06 11:15:11 INFO  RestApi:73 - __________ Validate multiple values in a content in GET request __________
+2020-04-06 11:15:12 INFO  RestApi:78 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-04-06 11:24:06 INFO  RestApi:25 - __________ Before Test __________
+2020-04-06 11:24:07 INFO  RestApi:32 - __________ Apply for Access Token __________
+2020-04-06 11:24:09 INFO  RestApi:42 - __________ Access token was successful! __________
+2020-04-06 11:24:09 INFO  RestApi:48 - __________ GET . Retrieve a list of countries __________
+2020-04-06 11:24:09 INFO  RestApi:53 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-04-06 11:24:09 INFO  RestApi:59 - __________ Validate multiple contents in GET request __________
+2020-04-06 11:24:09 INFO  RestApi:67 - __________ Validate multiple contents in GET request was successful! __________
+2020-04-06 11:24:09 INFO  RestApi:73 - __________ Validate multiple values in a content in GET request __________
+2020-04-06 11:24:10 INFO  RestApi:78 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-04-06 11:24:59 INFO  RestApi:25 - __________ Before Test __________
+2020-04-06 11:25:00 INFO  RestApi:32 - __________ Apply for Access Token __________
+2020-04-06 11:25:01 INFO  RestApi:42 - __________ Access token was successful! __________
+2020-04-06 11:25:01 INFO  RestApi:48 - __________ GET . Retrieve a list of countries __________
+2020-04-06 11:25:02 INFO  RestApi:53 - __________ GET . 'Retrieve a list of countries'  request completed successfully! __________
+2020-04-06 11:25:02 INFO  RestApi:59 - __________ Validate multiple contents in GET request __________
+2020-04-06 11:25:02 INFO  RestApi:67 - __________ Validate multiple contents in GET request was successful! __________
+2020-04-06 11:25:02 INFO  RestApi:73 - __________ Validate multiple values in a content in GET request __________
+2020-04-06 11:25:02 INFO  RestApi:78 - __________ Validate multiple values in a content in GET request was successful! __________
+2020-04-18 13:59:04 INFO  RestApi:15 - __________ Before Class C__________
+2020-04-18 13:59:04 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-04-18 13:59:05 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-04-18 13:59:05 INFO  RestApi:31 - __________ GET After PUT/Updating a country __________
+2020-04-18 13:59:06 INFO  RestApi:36 - __________ Get after PUT/Updating was successful __________
+2020-04-18 14:00:58 INFO  RestApi:15 - __________ Before Class C__________
+2020-04-18 14:00:58 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-04-18 14:00:59 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-04-18 14:00:59 INFO  RestApi:31 - __________ GET After PUT/Updating a country __________
+2020-04-18 14:01:00 INFO  RestApi:36 - __________ Get after PUT/Updating was successful __________
+2020-04-18 14:01:40 INFO  RestApi:15 - __________ Before Class C__________
+2020-04-18 14:01:40 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-04-18 14:01:41 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-04-18 14:01:41 INFO  RestApi:31 - __________ GET After PUT/Updating a country __________
+2020-04-18 14:01:41 INFO  RestApi:36 - __________ Get after PUT/Updating was successful __________
+2020-04-18 14:02:54 INFO  RestApi:15 - __________ Before Class C__________
+2020-04-18 14:02:54 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-04-18 14:02:55 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-04-18 14:02:55 INFO  RestApi:31 - __________ GET After PUT/Updating a country __________
+2020-04-18 14:06:59 INFO  RestApi:15 - __________ Before Class C__________
+2020-04-18 14:07:00 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-04-18 14:07:01 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-04-18 14:07:01 INFO  RestApi:31 - __________ GET After PUT/Updating a country __________
+2020-04-18 14:07:01 INFO  RestApi:36 - __________ Get after PUT/Updating was successful __________
+2020-04-18 14:08:59 INFO  RestApi:15 - __________ Before Class C__________
+2020-04-18 14:08:59 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-04-18 14:09:00 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-04-18 14:09:00 INFO  RestApi:31 - __________ GET After PUT/Updating a country __________
+2020-04-18 14:09:00 INFO  RestApi:36 - __________ Get after PUT/Updating was successful __________
+2020-04-18 14:09:34 INFO  RestApi:15 - __________ Before Class C__________
+2020-04-18 14:09:34 INFO  RestApi:17 - __________ Apply for Access Token __________
+2020-04-18 14:09:36 INFO  RestApi:27 - __________ Access Token was successful __________
+2020-04-18 14:09:36 INFO  RestApi:31 - __________ GET After PUT/Updating a country __________
+2020-04-18 14:09:36 INFO  RestApi:36 - __________ Get after PUT/Updating was successful __________

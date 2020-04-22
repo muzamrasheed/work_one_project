@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/mrasheed/IdeaProjects/exampleApiCountries/src/test/java/com/TestCase">
+        <classes>
+            <class name="com.TestCase.A_RestAssured_get">
+                <methods>
+                    <include name="firstGet"/>
+                    <include name="VerifyMultipleResponces"/>
+                    <include name="varifyMultipleValuesInBody"/>
+                    <include name="RetrieveAListOfCountries_FBR"/>
+                    <include name="RetrieveAListOfCountries_SCRB"/>
+                    <include name="RetrieveAListOfCountries_MCRB"/>
+                </methods>
+            </class>
+            <class name="com.TestCase.B_RestAssured_post">
+                <methods>
+                    <include name="postCountry"/>
+                </methods>
+            </class>
+            <class name="com.TestCase.C_RestAsuured_GetAfterPost">
+                <methods>
+                    <include name="getAfetrPost"/>
+                </methods>
+            </class>
+            <class name="com.TestCase.D_RestAssured_Put">
+                <methods>
+                    <include name="PutRequest"/>
+                </methods>
+            </class>
+            <class name="com.TestCase.E_RestAssured_GetAfterPut">
+                <methods>
+                    <include name="getAfetrPut"/>
+                </methods>
+            </class>
+            <class name="com.TestCase.F_RestAssured_Delete">
+                <methods>
+                    <include name="Delete"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
